@@ -12,6 +12,7 @@ public class BMRCal {
         String G = scanner.nextLine();
 
         System.out.print(" ส่วนสูง : ");
+
         double H = scanner.nextDouble();
 
         System.out.print(" น้ำหนัก : ");
