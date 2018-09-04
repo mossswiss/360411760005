@@ -15,8 +15,6 @@ public class midterm_3 {
         System.out.println("2.ชั่วโมงสอน 12 - 16 ชั่วโมง ได้รับโบนัส 5% ของเงินเดือน");
         System.out.println("3.ชั่วโมงสอน 17 - 20 ชั่วโมง ได้รับโบนัส 10% ของเงินเดือน");
         System.out.println("4.ชั่วโมงสอน 21 ชั่วโมงเป็นต้นไป ได้รับโบนัส 15% ของเงินเดือน");
-
-
         System.out.print("ชื่อ-สกุล : ");
         n = sc.nextLine();
         System.out.print("คณะ : ");
@@ -39,8 +37,6 @@ public class midterm_3 {
         }
         else {
         }
-
-
 
     }//main
 }//class
