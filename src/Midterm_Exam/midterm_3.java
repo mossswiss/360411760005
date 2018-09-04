@@ -9,7 +9,6 @@ public class midterm_3 {
         String n,a ;
 
         int m,h;
-
         System.out.println("อัตราโบนัสเงินเดือน");
         System.out.println("1.ชั่วโมงสอนน้อยกว่ำ 12 ชั่วโมง ไม่ได้รับโบนัส");
         System.out.println("2.ชั่วโมงสอน 12 - 16 ชั่วโมง ได้รับโบนัส 5% ของเงินเดือน");
